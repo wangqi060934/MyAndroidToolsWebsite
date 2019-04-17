@@ -1,2 +1,5 @@
-1.6.8
-https://github.com/wangqi060934/MyAndroidToolsWebsite/releases/download/1.6.8/MyAndroidToolsFreeNoad_1.6.8.apk
+{
+  "version": "1.6.9.beta",
+  "url": "https://github.com/wangqi060934/MyAndroidToolsWebsite/releases/download/1.6.9.beta/MyAndroidToolsFreeNoad_1.6.9.beta.apk",
+  "info": "1.add an option to disable report crash automatically \n2.display the file path of sp/db \n 3.try to support intent firewall"
+}
